@@ -1,0 +1,409 @@
+.firstheader{
+    width: 100%;
+    height: 30px;
+    display: flex;
+ background-color: #F5F5F5;
+ margin: 0;
+ padding: 0;
+ 
+ 
+}
+
+.jordan{
+    width: 24px;
+    height:24px;
+    padding-left: 36px;
+}
+.help{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+    padding: 5px;
+    padding-left: 1650px;
+    text-decoration: none;
+}
+.joinus{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #111111;
+    padding: 5px;
+    
+    text-decoration: none;
+}
+.lefttop{
+    width:50%;
+    
+    display: flex; 
+
+}
+.signin{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #111111;
+    padding: 5px;
+   
+    text-decoration: none;
+}
+.nike{
+width: 60px;
+height: 60px;
+padding-left: 32px;
+}
+.mainhead{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.text{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #111111;
+   
+    padding-left: 650px;
+    padding-top: 20px;
+    padding-right: 25px;
+
+
+}
+.headtext{
+text-decoration: none;
+font-size: 16px;
+color: #111111;
+text-decoration: none;
+padding-right: 20px;
+}
+.headleft{
+    display: flex;
+    padding-left: 800px;
+    padding-bottom: 25px;
+    
+  
+
+}
+#searchbox{
+border: none;
+outline:none;
+background: none;
+padding-top:-20px;
+}
+span{
+    padding-left: 10px;
+ padding-right: 10px;
+ 
+ 
+}
+.body1{
+    width: 100%;
+    height :60px;
+    background-color:#F5F5F5;
+   
+    padding: 0;
+    margin: 0;
+    
+}
+#body1students{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-top: 15px;
+}
+#learnmore{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111111;
+}
+#image1{
+    padding-left: 36px;
+
+}
+*{
+    padding: 0;
+    margin: 0; 
+}
+.peace{
+    
+    position: absolute;
+    bottom: 8px;
+    left: 80px;
+    font-size: 65px;
+   
+    font-weight: 1000;
+   color: white;
+}
+#image1{
+    height: min-content;
+    opacity: 90%;
+    
+}
+.pose{
+   position: absolute;
+    bottom: -45px;
+    left: 80px;
+    font-size: 65px;
+   
+    font-weight: 1000;
+   color: white;
+}
+.yoga{
+
+position: absolute;
+    bottom: -65px;
+    left: 80px;
+    font-size: 18px;
+   
+    font-weight: normal;
+   color: white;
+}
+.btn{
+    position: absolute;
+    bottom: -140px;
+    left: 80px;
+    font-size: 18px;
+   border-radius: 30%;  
+   
+ margin: 1px;
+ display: inline-block;
+ text-align: center;
+padding: 8px 16px;
+border: none;
+}
+.space1{
+    width: 100%;
+    height: 150px;
+}
+.trending{
+    font-size: 26px;
+ 
+    padding-top: 106px;
+    padding-left: 35px;
+ 
+}
+.gif{
+    width: 50%;
+    height: 700px;
+
+    padding-left: 36px;
+
+}
+.body2{
+    width: 100%;
+    height: 700px;
+  display: flex;
+
+}
+.whiteshoe{
+    width: 50%;
+    height: 700px;
+    padding-right: 36px;
+    padding-left: 40px;
+}
+.giftext{
+    position: absolute;
+    left: 230px;
+    font-size: 20px;
+    font-weight: normal;
+    color: 111111;
+    padding-top: 640px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.giftbutton{
+    position: absolute;
+    top: 1910px;
+    left: 400px;
+    font-size: 18px;
+    font-weight: normal;
+    color: white;
+    background-color: #111111;
+    padding-top: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+   margin: 6px 6px 0px 0px;
+    padding: 8px 20px;
+ text-align: center;
+ border-radius: 30%;  
+border: none;
+}
+.nikewhitetext{
+    position: absolute;
+    left: 1111px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 1813px;
+    color: white;
+}
+.whitebtn{
+    position: absolute;
+    left: 1140px;
+    font-size: 16px;
+   border-radius: 30%;  
+   top: 1870px;
+ margin: 1px;
+ display: inline-block;
+ text-align: center;
+padding: 8px 16px;
+border: none;
+}
+.space2{
+        width: 100%;
+        height: 150px;
+    }
+.body3{
+    height:800px;
+    width: 100%;
+    display: flex;
+    padding-right: 36px;
+    padding-left: 40px;
+}
+
+
+.image1 .image2 .image3 {
+
+    position: absolute;
+    height: 100%;
+ 
+    flex: 25%;
+    width: 100%;
+}
+
+.space3{
+    width: 100%;
+    height: 150px;
+  
+}
+.last{
+    width: 100%;
+        height: 300px;
+        display: flex;
+       
+        padding-right: 36px;
+    padding-left: 40px;
+    
+}
+.Icons{
+    width: 10%;
+    text-align: left;
+
+    margin-top: 80px;
+
+}
+.Shoes {
+    width: 10%;
+   
+  
+    text-align: left;
+    margin-top: 80px;
+}
+    
+
+
+.Clothing{
+    width: 12%;
+ 
+   
+    text-align: left;
+    margin-top: 80px;
+}
+.Kids{
+    width: 30%;
+   
+   
+    text-align: left;
+    margin-top: 80px;
+
+}
+.list{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    list-style-type: none;
+
+    color: #757575;
+
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-color: #111111;
+}
+.free{
+ width: 30%;
+}
+.foot1{
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+     font-weight: 600;
+     color: white;
+     text-align: right;
+     margin-top: 10px;
+     padding-top: 70px;
+     list-style-type: none;
+
+}
+.foot2{
+    width: 10%;
+    text-align: right;
+    margin-top: -16px;
+    
+    
+    
+}
+.foot3{
+    width: 10%;
+    text-align: left;
+    
+  
+    
+}
+#gethelp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+     font-weight: 600;
+     padding-top: 90px;
+         color: white;
+         list-style-type: none;
+
+}
+ .helpfoot{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    list-style-type: none;
+    color: white;
+    
+    
+    
+  
+}
+body{
+    overflow-y: hidden;
+ 
+}
+#about{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+     font-weight: 600;
+     padding-top: 90px;
+         color: white;
+         list-style-type: none;
+
+
+}
+.aboutfoot{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    list-style-type: none;
+    color: white;
+}
+#twitter{
+ 
+    color: white;
+    display: flex;
+    justify-items: right;
+
+}
+.social{
+    width: 50%;
+    display: flex;
+}
