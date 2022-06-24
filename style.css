@@ -315,6 +315,6 @@ margin-top: 40px;
  align-items: center;
  gap: 20px;
 }
-.footercontent a:hover{
+.footer a:hover{
  text-decoration: underline;
 }
